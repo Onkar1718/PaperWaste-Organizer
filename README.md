@@ -32,9 +32,10 @@
        <li> Open PHPMyAdmin (http://localhost/phpmyadmin)</li>
        <li> Create a database</li>
        <li>Import demo.sql file(inside database folder)</li>
-       <li> Run the script http://localhost/folderName </li> </ol>
+       <li> Run the script http://localhost/folderName </li> 
+       </ol>
 
 <h2>view project :</h2>
 
-<a href="https://github.com/Onkar1718/PaperWaste-Organizer/blob/main/index.html" > view demo</a>
+<a href="https://github.com/Onkar1718/PaperWaste-Organizer/index.html" > view demo</a>
 
