@@ -1,4 +1,4 @@
-# Food waste management system
+# PaperWaste Organizer
 <!-- <img src="img/coverimage.jpeg"> -->
 <p>  The basic concept of this project  PaperWaste Oraginzer is to collect Newspapers from Localc Residentials and give to Various Companies which deals with the NewsPaper Waste.</p>
 <h2>Tools and Technologies</h2> 
